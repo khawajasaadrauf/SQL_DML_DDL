@@ -42,4 +42,3 @@ https://github.com/khawajasaadrauf/SQL_DML_DDL/blob/main/DDL_DML_Practice.sql#L1
 ![7](https://user-images.githubusercontent.com/105595931/217274467-63ef6481-b29f-4180-aaac-d59718263781.JPG)
 
 https://github.com/khawajasaadrauf/SQL_DML_DDL/blob/main/DDL_DML_Practice.sql#L189-L198
-![image](https://github.com/khawajasaadrauf/SQL_DML_DDL/assets/45660662/5053e730-e3fc-496d-8eb8-f9385b571720)
